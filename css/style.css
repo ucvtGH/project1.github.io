@@ -1,0 +1,21 @@
+body{
+    background-color: #06179B;
+}
+td{
+    border: dashed 3px #ff0000;
+    background-color: #FFFFFF;	
+
+}
+h1 {
+    color: #06179B;
+    text-align: center;
+    font-size: 42px;
+    margin-top: 90px;
+}
+table {
+    border: 7px solid #A30202;
+}
+
+.hrt{
+	border:none;
+}
